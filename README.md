@@ -6,19 +6,19 @@
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Log%20In%20Page.PNG)
 
 
-### Forgot Password
+### Forgot Password Page
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Forgot%20Password.PNG)
 
 
-### Log In with Facebook
+### Log In with Facebook Page
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Log%20In%20with%20Facebook.PNG)
 
 
-### Password Reset
+### Password Reset Page
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Password%20Reset.PNG)
 
 
-### Sign Up
+### Sign Up Page
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/sign%20up.PNG)
 
 
