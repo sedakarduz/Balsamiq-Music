@@ -6,8 +6,24 @@
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Log%20In%20Page.PNG)
 
 
+### Forgot Password
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Forgot%20Password.PNG)
+
+
+### Log In with Facebook
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Log%20In%20with%20Facebook.PNG)
+
+
+### Password Reset
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Password%20Reset.PNG)
+
+
+### Sign Up
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/sign%20up.PNG)
+
+
 ### My Music Page
-![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/My%20Music%20Page.PNG)
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/My%20Music.PNG)
 
 
 ### Explore Page
