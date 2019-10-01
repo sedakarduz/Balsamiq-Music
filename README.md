@@ -27,7 +27,7 @@
 
 
 #### Explore Page
-![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Explore%20Page.PNG)
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Explore.PNG)
 
 
 #### Radio Page
