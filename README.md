@@ -22,6 +22,18 @@
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/sign%20up.PNG)
 
 
+#### Dashboard Page
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Dashboard.PNG)
+
+
+#### My Profile Page
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/My%20Profile.PNG)
+
+
+#### Sets Page
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Sets%20Page.PNG)
+
+
 #### My Music Page
 ![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/My%20Music.PNG)
 
@@ -35,4 +47,4 @@
 
 
 #### My Account Page
-![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/My%20Account%20Page.PNG)
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/My%20Account.PNG)
