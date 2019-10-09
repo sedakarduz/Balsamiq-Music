@@ -31,7 +31,7 @@
 
 
 #### Sets Page
-![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Sets%20Page.PNG)
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Sets.PNG)
 
 
 #### My Music Page
@@ -43,8 +43,8 @@
 
 
 #### Radio Page
-![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Radio%20Page.PNG)
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Radio.PNG)
 
 
 #### My Account Page
-![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/My%20Account.PNG)
+![](https://github.com/sedakarduz/Balsamiq-Music/blob/master/Image/Account.PNG)
